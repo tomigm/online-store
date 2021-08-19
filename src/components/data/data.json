@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "grapefruit",
+        "description":"It's a simple grapefruit, cutted in half. Maybe we ate the other half... maybe not.",
+        "price": 150,
+        "picture":"https://i.postimg.cc/7hK784gR/minimal-style-creative-layout-orange-grapefruit-purple-background-69064-427.jpg"        
+
+    },
+    {
+        "id": 2,
+        "name": "Bananart",
+        "description":"It's art in a shape of a banana. Yes, a fruit. If it was art it should come with duct tape. (it doesn't inclue duct tape)",
+        "price": 1000,
+        "picture":"https://i.postimg.cc/MH6RFHjR/photo-1481349518771-20055b2a7b24.jpg"        
+
+    },
+    {
+        "id": 3,
+        "name": "egg-plant",
+        "description": "Literally, it's an egg with a plant inside. (NO IT'S NOT A VEGETABLE, STOP EMAILING US)",
+        "price": 50,
+        "picture":"https://i.postimg.cc/zBSK7K38/photo-1516876617270-291a72282e2e.jpg"        
+
+    },
+    {
+        "id": 4,
+        "name": "MEGA PHONE",
+        "description":"It's like a phone... BUT LOUDER!!!.",
+        "price": 500,
+        "picture":"https://i.postimg.cc/6pyVK8bf/photo-1517816428104-797678c7cf0c.jpg"        
+
+    },
+    {
+        "id": 5,
+        "name": "pipe",
+        "description":"perfect gift for your children!. We don't recommend taking it to airports. ",
+        "price": 75,
+        "picture":"https://i.postimg.cc/7P9ST3pN/photo-1518603889836-db9dda0bc02a.jpg"        
+
+    },
+    {
+        "id": 6,
+        "name": "Gameboy",
+        "description":"It's yellow, like pikachu, but charged with batteries. Games not included.",
+        "price": 400,
+        "picture":"https://i.postimg.cc/X72KtfLv/photo-1531525645387-7f14be1bdbbd.jpg"        
+
+    },
+    {
+        "id": 7,
+        "name": "old phone",
+        "description":"yes, in ancient times, people used to use this. and now we sell it, in yellow as the price of a brand new submarine. ",
+        "price": 15000,
+        "picture":"https://i.postimg.cc/m2ZNdXQq/photo-1557180295-76eee20ae8aa.jpg"        
+
+    },
+    {
+        "id": 8,
+        "name": "Stapler",
+        "description":"A simple office supply. No, you are not buying a company.",
+        "price": 25,
+        "picture":"https://i.postimg.cc/bwWxwqKc/photo-1562966700-49bb28f1c62d.jpg"        
+
+    },
+    {
+        "id": 9,
+        "name": "lolliplate",
+        "description":"The original product was the plate, but the photographer left a lollipop over it, now we are selling both things, and with a higher price.",
+        "price": 299,
+        "picture":"https://i.postimg.cc/XJ099Qjs/photo-1567653418876-5bb0e566e1c2.jpg"        
+
+    },
+    {
+        "id": 10,
+        "name": "macaron",
+        "description":"NO! IT'S NOT THE PRESIDENT OF FRANCE. - We present you, the world famous macaron, a soft, crunchy and tasty pastry, specially made for you.",
+        "price": 5,
+        "picture":"https://i.postimg.cc/SK9WXwhX/photo-1582573255261-aae41d99d91b.jpg"        
+
+    }
+]

@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.btn-primary {
+  background-color: white;
+  border: 2px solid #1f1f1f;
+  
+  color: #1f1f1f;
+  font-weight: 600;
+}
+
+
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+  background-color: #1b1b1b !important;
+  color: white;
+  border-color: #1f1f1f !important;
+}
+
+.btn-secondary {
+  background-color: rgb(255, 202, 29);
+  border: 2px solid rgb(255, 202, 29);
+  
+  color: white;
+  font-weight: 600;
+}
+
+
+
+.btn-secondary:hover, .btn-secondary:active, .btn-secondary:focus {
+  background-color: rgb(255, 202, 29)!important;
+  color: #1f1f1f;
+  border-color: rgb(255, 202, 29) !important;
+}
+
+
+
+body {
+  height: 100% !important;
+  font-family: 'Overpass', sans-serif ;
+}
+
+.navbar-brand {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  
+  background: linear-gradient(180deg, rgb(255, 202, 29) 0%, rgb(245, 139, 130) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+}
+
+.nav-link {
+  font-weight: 200;
+  font-size: 1.3rem;
+  padding: 1em;
+}
+
+.nav-link:hover {
+  color: rgb(245, 139, 130) !important;
+}
+
+#cart {
+  color: #1f1f1f;
+  
+}
+
+
+#cart-label {
+  font-weight: 700;
+  font-size: 12px;
+  background: #ff0000;
+  color: #fff;
+  width: 10px;
+  height: 10px;
+  padding: 3px 5px;
+  border-radius: 50%;
+  vertical-align: top;
+  z-index: 999;
+  margin-left: -15px;
+  
+}
+
+h3, h4, h5 {
+  font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+}
+
+h2{
+  font-weight: 100;
+  font-family: 'Rubik', sans-serif;
+  
+}
+
+
+.shop_card {
+  border-radius: 20px;
+  box-shadow: 0px 9px 36px -4px rgba(0,0,0,0.93);
+}
+
+.shop_card-picture {
+  height: 300px;
+  object-fit: cover;
+  transition: all 150ms ease-in-out  ;
+  cursor:pointer;
+  border-radius: 10px 10px 0 0;
+  
+ 
+}
+
+.shop_card-picture:hover {
+  transform: scale(1.1);
+ 
+  filter:brightness(125%);
+
+} 
+
+.shop_card .badge {
+  margin-right: 0;
+}
+
+.about_container {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='rgb(255, 202, 29)' fill-opacity='1' d='M0,160L360,224L720,128L1080,288L1440,0L1440,320L1080,320L720,320L360,320L0,320Z'%3E%3C/path%3E%3C/svg%3E");
+  background-size: cover;
+  background-position: bottom;
+  height: 90vh;
+  width: 100%;
+  
+}
+
+.about-content {
+  width: 1000px;
+}
+
+.about_container .about-text {
+ 
+  column-count: 2;
+  column-gap: 45px;
+  width: 100%;
+  background-color: white;
+  padding: 1em;
+  box-shadow: 0px 9px 36px -4px rgba(0,0,0,0.93);
+
+}
+
+.product_container {
+  width: 70%;
+
+}
+
+.product-content > img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+
+.pc_data > * {
+  padding: 0.3em 0;
+}
+
+
+
+.pc_data .fila_precios > div > input {
+  height: 80%;
+  border: 2px solid rgb(255, 202, 29);
+  margin: 0 1em;
+}
+
+.cart_container img{ 
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 10px;
+
+}
+
+.cart_container td, th{
+  font-size: 1rem; 
+}
+
+ .checkout_row {
+  
+  background: linear-gradient(to right, black 50%, rgb(255, 202, 29) 50%) ;
+  background-size: 200% 100%;
+  background-position: right bottom;
+  
+  transition: all 0.2s ease-out;
+  cursor: pointer;
+
+}
+
+.checkout_row:hover {
+  background-position: left bottom;
+  color: white;
+  font-weight: 900;
+}
+
